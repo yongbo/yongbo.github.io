@@ -3,67 +3,113 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/about/</loc>
+    <loc>https://example.com/categories/about/</loc>
+    <lastmod>2017-06-28T17:26:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/about/</loc>
+    <loc>https://example.com/2017/06/2017-06-28-about/</loc>
+    <lastmod>2017-06-28T17:26:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2017-06-28T17:26:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/coding/</loc>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2017-06-28T17:26:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/design/</loc>
+    <loc>https://example.com/</loc>
+    <lastmod>2017-06-28T17:26:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2017-06-28T17:26:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/maverick/</loc>
+    <loc>https://example.com/tags/theme/</loc>
+    <lastmod>2017-06-28T17:26:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/2019-12-11-maverick/</loc>
+    <loc>https://example.com/categories/%E5%88%86%E7%B1%BB2/</loc>
+    <lastmod>2017-06-28T17:26:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://example.com/tags/coding/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://example.com/tags/design/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/theme/</loc>
+    <loc>https://example.com/tags/development/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/typography/</loc>
+    <loc>https://example.com/categories/maverick/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/%E5%88%86%E7%B1%BB2/</loc>
+    <loc>https://example.com/1/01/2019-12-11-maverick/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://example.com/series/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/%E6%95%85%E4%BA%8B/</loc>
+    <loc>https://example.com/tags/typography/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/2018-11-09-typography/</loc>
+    <loc>https://example.com/categories/%E6%95%85%E4%BA%8B/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/1/01/2018-11-09-typography/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

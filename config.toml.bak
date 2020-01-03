@@ -1,0 +1,84 @@
+baseURL = "/"
+languageCode = "zh"
+defaultContentLanguage = "zh"
+title = "小城故事多"
+theme = "pickles"
+copuright = "&copy; Copyright notice"
+
+googleAnalytics  = "UA-155209131-1"
+
+
+
+## Site Settings
+[params]
+    paginate = 10
+    author = "wangyongbo"
+    title = "Title"
+    description = "..."
+    bio = "wangyongbo90@gmail.com"
+    contact = "mailto:wangyongbo90@gmail.com"
+    #avatar = "/static/avatar.jpeg"
+    subtitle = "小城故事集"
+    authorimage = "/img/hugo.png"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    copyright = "htr3n"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    ga_api_key = "UA-155209131-1"
+
+    # https://highlightjs.org
+    #highlightjs = true
+    #highlightjsstyle = "github"
+
+    sidebar-color = "red"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    github = "yongbo"
+    instagram = "<username>"
+    xing = "<username>"
+    linkedin = "<username>"
+    twitter = "<username>"
+    facebook = "<username>"
+    stackoverflow = "<username>"
+    telegram = "<username>"
+    email = "wangyongbo90@gmail.com"
+    # gravatar = "your-email@example.com"
+
+
+[[menu.main]]      
+  name = "首页"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "归档"
+  weight = 20
+  identifier = "archives"
+  url = "/posts/"
+
+[[menu.main]]
+  name = "标签"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+
+[[menu.main]]
+  name = "分类"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"
